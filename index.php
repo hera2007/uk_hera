@@ -74,7 +74,7 @@
 
                 <!-- Siswa -->
                 <div class="col-md-3">
-                <div class="card bg-primary text-white h-100">
+                <div class="card bg-primary text-white h-100">   
                     <div class="card-body">
                     <i class="bi bi-people-fill display-4"></i>
                     <h4 class="mt-3">1500 Orang</h4>
@@ -118,7 +118,7 @@
                                 </div>
                                 <div class="card-body">
                                     <h3>Pelatihan Safety Riding Smkn 4 Tasakmalaya</h3>
-                                    <a class="btn btn-success" href="#">Baca Selengkapnya</a>
+                                    <a class="btn btn-success" href="https://www.bing.com/images/search?q=safety+riding+lab+smk4+tasikmalaya&id">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
@@ -136,8 +136,8 @@
                     </div>
                     </div>
                 </div>
-        </div>
-        </div>  
+                </div>
+                </div>  
                     <br>
                     <br>
                     <!-- TUTUP SELECTION BERITA -->
