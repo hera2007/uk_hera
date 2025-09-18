@@ -21,7 +21,7 @@
         
         <!-- SECTION SEJARAH  -->
         <section>
-            <div class="container px-5 mt-5">
+            <div class="container px-5 mt-5 mb-3">
                 <div class="row">
                     <div class="col-lg-12">
                         <h3 class="mb-0">Sejarah</h3>
@@ -57,12 +57,12 @@
                     <br>
                     <!-- tutup sejarah -->
 
-                    <!-- SECTION FOOTER -->
-            <?php include 'footer.php' ?>
+
                 </div>
             </div>
         </section>
-
+                    <!-- SECTION FOOTER -->
+            <?php include 'footer.php' ?>
         
     </body>
     </html>

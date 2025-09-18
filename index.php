@@ -19,6 +19,15 @@
                 <?php include 'header.php' ?>        
 
 
+                 <div class="card text-bg-dark text-center">
+                    <img src="galleri/denah.png" class="card-img" alt="...">
+                    <div class="card-img-overlay d-flex flex-column justify-content-center align-items-center">
+                        <h5 class="card-title display-6">WILUJENG SUMPING DI</h5>
+                        <h1 class="card-text display-2 fw-bold">SMKN 4 TASIKMALAYA</h1>
+                    </div>
+                    </div>
+
+
             <!-- SELECTION SAMBUTAN-->
         <div class="container py-5">
             <div class="row g-4 align-items-center">
@@ -105,7 +114,7 @@
                 </div>
 
                 <!-- SELECTION BERITA -->
-                <div class="container"></div>
+                <div class="container">
 
                 <div class="row">
                     <div class="col-lg-12">
@@ -118,7 +127,7 @@
                                 </div>
                                 <div class="card-body">
                                     <h3>Pelatihan Safety Riding Smkn 4 Tasakmalaya</h3>
-                                    <a class="btn btn-success" href="https://www.bing.com/images/search?q=safety+riding+lab+smk4+tasikmalaya&id">Baca Selengkapnya</a>
+                                    <a class="btn btn-success" href="https://www.pikiran-rakyat.com/otomotif/pr-018109177/honda-resmikan-safety-riding-lab-di-smkn-4-tasikmalaya-ciptakan-bibit-keselamatan-di-jawa-barat?page=all">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
@@ -129,12 +138,13 @@
                                 </div>
                                 <div class="card-body">
                                     <h3>penyerahan beasiswa dari Yayasan AHM, Senin 23 September 2024</h3>
-                                    <a class="btn btn-success" href="#">Baca Selengkapnya</a>
+                                    <a class="btn btn-success" href="https://radartasik.id/2024/10/07/tujuh-siswa-smkn-4-tasikmalaya-raih-beasiswa-dari-yayasan-astra-honda-motor/">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     </div>
+                </div>
                 </div>
                 </div>
                 </div>  

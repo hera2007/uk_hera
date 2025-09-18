@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
         <div class="container-fluid">
-            <img src="./galleri/logo.jpg" alt="logo" width="100" height="100">
+            <img src="./galleri/nida.png" alt="logo" width="50" height="50">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -37,3 +37,5 @@
         </div>
         </nav>
         <!-- SECTION TUTUP NAVBAR -->
+
+       

@@ -20,7 +20,7 @@
 
         <!-- SECTION IDENTITAS -->
         <section>
-            <div class="container px-5 mt-3">
+            <div class="container px-5 mt-3 mb-3">
                 <div class="row">
                     <div class="col-lg-12 ">
                         <h3 class="mb-0">Identitas</h3>
